@@ -154,3 +154,4 @@ ro.config.hwfeature_wakeupkey=0
 mot.proximity.delay=150
 ro.config.hwfeature_wakeupkey=0
 ro.camera.sound.forced=0
+windowsmgr.max_events_per_sec=240
